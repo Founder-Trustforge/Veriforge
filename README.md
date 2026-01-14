@@ -1,20 +1,20 @@
-# Verichain   
+# EthosiFi   
 On-chain reputation for ethical crypto
-# Verichain    
+# EthosiFi    
 > **Forge Trust. Earn Integrity. Own Your Reputation.**
 
-Verichain is a decentralized reputation protocol that turns ethical on-chain behavior into a user-owned, monetizable asset: the **TrustScore NFT**.
+EthosiFi is a decentralized reputation protocol that turns ethical on-chain behavior into a user-owned, monetizable asset: the **TrustScore NFT**.
 
 We enable builders to prove integrity *before* token launch—and users to verify if a new project is more than a pump-and-dump scheme.
 
-🌐 **Website**: [verichainxyz](https://verichain.xyz)  
+🌐 **Website**: [ethosifi.xyz](https://ethosifi.xyz)  
 📄 **Standard**: [Genesis TrustScore v0.1](./GENESIS_STANDARD.md)  
-🗞️ **Announcements**: [Mirror](https://mirror.xyz/verichain.eth)  
-🐦 **Updates**: [@Verichainxyz](https://twitter.com/Verichain.xyz)
+🗞️ **Announcements**: [Mirror](https://mirror.xyz/ethosifi.eth)  
+🐦 **Updates**: [@ethosifi.xyz](https://twitter.com/ethosifi.xyz)
 
 ---
 
-## Why Verichain?
+## Why EthosiFi?
 - 🔒 **Pre-token reputation**: Teams earn trust *before* liquidity exists  
 - 🛡️ **Scam-resistant**: On-chain proof > marketing hype  
 - 🌐 **Private by default**: Zero-knowledge proofs protect your history  
